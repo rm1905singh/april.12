@@ -11,4 +11,8 @@ rgs = {
     name     = "rms12"
     location = "centarl india"
   },
+  rg4 = {
+    name     = "rms122"
+    location = "centarl india"
+  },
 }
